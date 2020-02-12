@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "/informal-bioinformatics-seminars"
 languageCode = "en-us"
 title = "Monash Bioinformatics Platform"
 theme = "noteworthy"

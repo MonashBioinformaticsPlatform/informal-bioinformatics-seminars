@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VariantsPrediction on Monash Bioinformatics Platform</title>
+    <link>https://example.com/tags/variantsprediction/</link>
+    <description>Recent content in VariantsPrediction on Monash Bioinformatics Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Mar 2019 16:22:26 +1100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/variantsprediction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classifying DNA mismatch repair variant pathogenicity using protein structure and function predictions</title>
+      <link>https://example.com/posts/bernie-pope/</link>
+      <pubDate>Wed, 27 Mar 2019 16:22:26 +1100</pubDate>
+      
+      <guid>https://example.com/posts/bernie-pope/</guid>
+      <description>The DNA mismatch repair (MMR) mechanism plays an important role in maintaining genome integrity by correcting small mutations that can arise from DNA damage or from mistakes made during replication and recombination</description>
+    </item>
+    
+  </channel>
+</rss>

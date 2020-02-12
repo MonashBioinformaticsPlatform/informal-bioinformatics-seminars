@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genomics on Monash Bioinformatics Platform</title>
+    <link>https://example.com/tags/genomics/</link>
+    <description>Recent content in genomics on Monash Bioinformatics Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2019 16:18:05 +1100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ASPREE sub-study on clonal haematopoiesis of indeterminate potential (CHIP) – musings of working up a targeted amplicon panel, a work in progress</title>
+      <link>https://example.com/posts/nick-wong/</link>
+      <pubDate>Wed, 20 Mar 2019 16:18:05 +1100</pubDate>
+      
+      <guid>https://example.com/posts/nick-wong/</guid>
+      <description>ASPREE (ASPrin in reducing effects of the elderly) is a large prospective cohort study looking at the effects of low-dose aspirin in an otherwise healthy elderly population</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GeneSetEnrichment on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/genesetenrichment/</link>
+    <link>/tags/genesetenrichment/</link>
     <description>Recent content in GeneSetEnrichment on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2019 16:56:39 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/genesetenrichment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/genesetenrichment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mitch: Multivariate pathway enrichment for multi-omics and single-cell profiling data</title>
-      <link>https://example.com/posts/mark-ziemann/</link>
+      <link>/posts/mark-ziemann/</link>
       <pubDate>Wed, 12 Jun 2019 16:56:39 +1100</pubDate>
       
-      <guid>https://example.com/posts/mark-ziemann/</guid>
+      <guid>/posts/mark-ziemann/</guid>
       <description>Inference of biological pathway activity via gene set enrichment analysis is a frequently used approach in the interpretation of clinical and other omics data</description>
     </item>
     
     <item>
       <title>Discoverability bias and its influence on gene-set testing</title>
-      <link>https://example.com/posts/stuart-archer/</link>
+      <link>/posts/stuart-archer/</link>
       <pubDate>Wed, 06 Mar 2019 16:01:32 +1100</pubDate>
       
-      <guid>https://example.com/posts/stuart-archer/</guid>
+      <guid>/posts/stuart-archer/</guid>
       <description>Gene-set enrichment analyses are the most commonly used class of analyses for distilling genomics data into biological knowledge</description>
     </item>
     

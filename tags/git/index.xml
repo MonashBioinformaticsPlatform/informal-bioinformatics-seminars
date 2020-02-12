@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/git/</link>
+    <link>/tags/git/</link>
     <description>Recent content in git on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 16:40:46 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Version Control with Git</title>
-      <link>https://example.com/posts/dmitry-yahnov/</link>
+      <link>/posts/dmitry-yahnov/</link>
       <pubDate>Wed, 10 Apr 2019 16:40:46 +1100</pubDate>
       
-      <guid>https://example.com/posts/dmitry-yahnov/</guid>
+      <guid>/posts/dmitry-yahnov/</guid>
       <description>Version control is a type of system that allows you to keep track of changes made to your code over time</description>
     </item>
     

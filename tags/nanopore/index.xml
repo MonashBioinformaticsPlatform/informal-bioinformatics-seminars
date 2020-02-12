@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nanopore on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/nanopore/</link>
+    <link>/tags/nanopore/</link>
     <description>Recent content in nanopore on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2019 20:30:29 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/nanopore/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/nanopore/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bacterial whole genome assembly of Oxford Nanopore reads</title>
-      <link>https://example.com/posts/ryan-wick/</link>
+      <link>/posts/ryan-wick/</link>
       <pubDate>Wed, 10 Jul 2019 20:30:29 +1100</pubDate>
       
-      <guid>https://example.com/posts/ryan-wick/</guid>
+      <guid>/posts/ryan-wick/</guid>
       <description>Long-read sequencing platforms from Oxford Nanopore Technologies (ONT) are transforming the world of genome assembly</description>
     </item>
     
     <item>
       <title>Is MinION reads sufficient to generate perfect bacterial genomes?</title>
-      <link>https://example.com/posts/tongda-li/</link>
+      <link>/posts/tongda-li/</link>
       <pubDate>Wed, 03 Jul 2019 20:24:51 +1100</pubDate>
       
-      <guid>https://example.com/posts/tongda-li/</guid>
+      <guid>/posts/tongda-li/</guid>
       <description>Nanopore sequencing has come into focus, especially for bacterial genomics, due to its ability to produce ultra-long reads that are essential for producing complete circular genomes</description>
     </item>
     
     <item>
       <title>Nanopore squiggle adventures</title>
-      <link>https://example.com/posts/james-ferguson/</link>
+      <link>/posts/james-ferguson/</link>
       <pubDate>Wed, 26 Jun 2019 20:22:54 +1100</pubDate>
       
-      <guid>https://example.com/posts/james-ferguson/</guid>
+      <guid>/posts/james-ferguson/</guid>
       <description>The management of raw nanopore sequencing data poses a challenge that must be overcome to accelerate the development of new bioinformatics algorithms predicated on signal analysis</description>
     </item>
     
     <item>
       <title>Is your Nanopore FOMO justified? Where Nanopore is at and how to get a piece of the action</title>
-      <link>https://example.com/posts/stella-loke/</link>
+      <link>/posts/stella-loke/</link>
       <pubDate>Wed, 19 Jun 2019 20:20:54 +1100</pubDate>
       
-      <guid>https://example.com/posts/stella-loke/</guid>
+      <guid>/posts/stella-loke/</guid>
       <description>Nanopore sequencing has been marketed as the all portable, cheap and easy to answer to long reads</description>
     </item>
     

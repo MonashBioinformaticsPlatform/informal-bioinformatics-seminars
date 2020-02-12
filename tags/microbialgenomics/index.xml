@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MicrobialGenomics on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/microbialgenomics/</link>
+    <link>/tags/microbialgenomics/</link>
     <description>Recent content in MicrobialGenomics on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 16:49:32 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/microbialgenomics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/microbialgenomics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How bioinformatics and WGS has transformed international pathogen surveillance</title>
-      <link>https://example.com/posts/torsten-seemann/</link>
+      <link>/posts/torsten-seemann/</link>
       <pubDate>Wed, 22 May 2019 16:49:32 +1100</pubDate>
       
-      <guid>https://example.com/posts/torsten-seemann/</guid>
+      <guid>/posts/torsten-seemann/</guid>
       <description>Advances in whole genome sequencing and bioinformatics have transformed public health and clinical microbiology</description>
     </item>
     

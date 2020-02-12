@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ClinicalGenomics on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/clinicalgenomics/</link>
+    <link>/tags/clinicalgenomics/</link>
     <description>Recent content in ClinicalGenomics on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jul 2019 20:34:24 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/clinicalgenomics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/clinicalgenomics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Clinical Bioinformatics at VCGS : Turbo charging clinical genomics for the modern era</title>
-      <link>https://example.com/posts/simon-sadelin/</link>
+      <link>/posts/simon-sadelin/</link>
       <pubDate>Wed, 31 Jul 2019 20:34:24 +1100</pubDate>
       
-      <guid>https://example.com/posts/simon-sadelin/</guid>
+      <guid>/posts/simon-sadelin/</guid>
       <description>As one of the largest genetic pathology laboratories in Australia, the Victorian Clinical Genetics Services is on the forefront of much of what is going on in the the world of clinical genomics and the associated bioinformatics</description>
     </item>
     
     <item>
       <title>Enabling academic research and clinical genomics at AGRF bioinformatics</title>
-      <link>https://example.com/posts/lesley-grey/</link>
+      <link>/posts/lesley-grey/</link>
       <pubDate>Wed, 08 May 2019 16:45:07 +1100</pubDate>
       
-      <guid>https://example.com/posts/lesley-grey/</guid>
+      <guid>/posts/lesley-grey/</guid>
       <description>With the increased adoption of genomic technologies in an increasingly diverse range of industries there is more need than ever for bioinformatics support</description>
     </item>
     

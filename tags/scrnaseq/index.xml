@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scRNAseq on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/scrnaseq/</link>
+    <link>/tags/scrnaseq/</link>
     <description>Recent content in scRNAseq on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Dec 2019 20:53:28 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/scrnaseq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/scrnaseq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Borrowing strength in numbers: some ideas for bulk and single-cell RNA-seq analysis</title>
-      <link>https://example.com/posts/davis-mccarthy/</link>
+      <link>/posts/davis-mccarthy/</link>
       <pubDate>Wed, 04 Dec 2019 20:53:28 +1100</pubDate>
       
-      <guid>https://example.com/posts/davis-mccarthy/</guid>
+      <guid>/posts/davis-mccarthy/</guid>
       <description>High-throughput data generation technologies are driving discovery in biomedical science</description>
     </item>
     

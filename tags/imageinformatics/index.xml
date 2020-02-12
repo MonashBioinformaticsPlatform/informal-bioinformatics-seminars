@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ImageInformatics on Monash Bioinformatics Platform</title>
-    <link>https://example.com/tags/imageinformatics/</link>
+    <link>/tags/imageinformatics/</link>
     <description>Recent content in ImageInformatics on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2019 16:47:53 +1100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/imageinformatics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/imageinformatics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data analysis and the Future of Respiratory Medicine</title>
-      <link>https://example.com/posts/freda-werdiger/</link>
+      <link>/posts/freda-werdiger/</link>
       <pubDate>Wed, 15 May 2019 16:47:53 +1100</pubDate>
       
-      <guid>https://example.com/posts/freda-werdiger/</guid>
+      <guid>/posts/freda-werdiger/</guid>
       <description>Building a robust model for disease is a necessary part of developing a cure</description>
     </item>
     

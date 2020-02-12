@@ -1,10 +1,10 @@
-baseURL = "/informal-bioinformatics-seminars"
 languageCode = "en-us"
 title = "Monash Bioinformatics Platform"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
+relativeurls = true
 
 [taxonomies]
   tag = "tags"
@@ -15,7 +15,6 @@ summaryLength = 10 # Configure how long the post summary should be on the homepa
 [params]
 	math = true
 	description = "## Informal Bioinformatics Seminars"
-
 	email = "#"
     twitter = "https://twitter.com/MonashBioinfo"
     github = "https://github.com/MonashBioinformaticsPlatform"

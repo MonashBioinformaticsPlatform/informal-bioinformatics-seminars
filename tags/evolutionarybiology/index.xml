@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EvolutionaryBiology on Monash Bioinformatics Platform</title>
-    <link>/informal-bioinformatics-seminars/tags/evolutionarybiology/</link>
+    <link>/tags/evolutionarybiology/</link>
     <description>Recent content in EvolutionaryBiology on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2019 16:15:04 +1100</lastBuildDate>
     
-	<atom:link href="/informal-bioinformatics-seminars/tags/evolutionarybiology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/evolutionarybiology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding whole genomes with identity by descent networks</title>
-      <link>/informal-bioinformatics-seminars/posts/matt-mcgee/</link>
+      <link>/posts/matt-mcgee/</link>
       <pubDate>Wed, 13 Mar 2019 16:15:04 +1100</pubDate>
       
-      <guid>/informal-bioinformatics-seminars/posts/matt-mcgee/</guid>
+      <guid>/posts/matt-mcgee/</guid>
       <description>Genome-wide association studies typically focus on discovery of one or more SNPs correlated with a phenotype of interest</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>webapp on Monash Bioinformatics Platform</title>
-    <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/tags/webapp/</link>
+    <link>/informal-bioinformatics-seminars/tags/webapp/</link>
     <description>Recent content in webapp on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Feb 2019 15:33:52 +1100</lastBuildDate>
     
-	<atom:link href="https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/informal-bioinformatics-seminars/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3D Cardiomics: Unravelling the spatial transcriptome of the heart</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/monika-mohenska/</link>
+      <link>/informal-bioinformatics-seminars/posts/monika-mohenska/</link>
       <pubDate>Wed, 27 Feb 2019 15:33:52 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/monika-mohenska/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/monika-mohenska/</guid>
       <description>An understanding of spatial gene expression and regulation is key to uncovering developmental and physiological processes, and accordingly, disease processes</description>
     </item>
     

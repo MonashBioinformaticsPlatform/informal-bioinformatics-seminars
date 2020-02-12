@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>proteomics on Monash Bioinformatics Platform</title>
-    <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/tags/proteomics/</link>
+    <link>/informal-bioinformatics-seminars/tags/proteomics/</link>
     <description>Recent content in proteomics on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jun 2019 16:53:10 +1100</lastBuildDate>
     
-	<atom:link href="https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/tags/proteomics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/informal-bioinformatics-seminars/tags/proteomics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>crisscrosslinkeR: An R package for the identification and visualization of protein–RNA and protein–protein interactions captured by crosslinking with mass spectrometry</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/emma-gail/</link>
+      <link>/informal-bioinformatics-seminars/posts/emma-gail/</link>
       <pubDate>Wed, 05 Jun 2019 16:53:10 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/emma-gail/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/emma-gail/</guid>
       <description>Unbiased detection of protein–protein and protein–RNA interactions within ribonucleoprotein complexes are enabled through crosslinking with mass spectrometry, but different methods detect different types of molecular interactions</description>
     </item>
     
     <item>
       <title>A slimy situation: Uncovering the composition and mechanism of the slime secretion from Sepiadariidae using integrated ‘Omics and microscopy</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/nikeisha-caruana/</link>
+      <link>/informal-bioinformatics-seminars/posts/nikeisha-caruana/</link>
       <pubDate>Wed, 29 May 2019 16:51:31 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/nikeisha-caruana/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/nikeisha-caruana/</guid>
       <description>Sepiadariidae are a small species of benthic bobtail squid distributed along the Southern Indo-Pacific coast of Australia</description>
     </item>
     

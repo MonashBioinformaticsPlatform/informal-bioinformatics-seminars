@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biostatistics on Monash Bioinformatics Platform</title>
-    <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/tags/biostatistics/</link>
+    <link>/informal-bioinformatics-seminars/tags/biostatistics/</link>
     <description>Recent content in biostatistics on Monash Bioinformatics Platform</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Dec 2019 20:53:28 +1100</lastBuildDate>
     
-	<atom:link href="https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/tags/biostatistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/informal-bioinformatics-seminars/tags/biostatistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Borrowing strength in numbers: some ideas for bulk and single-cell RNA-seq analysis</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/davis-mccarthy/</link>
+      <link>/informal-bioinformatics-seminars/posts/davis-mccarthy/</link>
       <pubDate>Wed, 04 Dec 2019 20:53:28 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/davis-mccarthy/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/davis-mccarthy/</guid>
       <description>High-throughput data generation technologies are driving discovery in biomedical science</description>
     </item>
     
     <item>
       <title>Singscore for gene-set scoring in cancer research</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/joseph-cursons/</link>
+      <link>/informal-bioinformatics-seminars/posts/joseph-cursons/</link>
       <pubDate>Wed, 16 Oct 2019 20:49:20 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/joseph-cursons/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/joseph-cursons/</guid>
       <description>The recent decade has seen a massive growth in the availability of large transcriptomic data sets for cell line collections (e.g. the Cancer Cell Line Encyclopedia; CCLE), and patient tumour samples with matched clinical information (e.g. The Cancer Genome Atlas; TCGA)</description>
     </item>
     
     <item>
       <title>Integration of miR-196 and retinoic acid signaling in limb development</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/jan-schroeder/</link>
+      <link>/informal-bioinformatics-seminars/posts/jan-schroeder/</link>
       <pubDate>Wed, 04 Sep 2019 20:46:12 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/jan-schroeder/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/jan-schroeder/</guid>
       <description>Integration of miR-196 and retinoic acid signaling in limb development and patterning Retinoic acid signaling can be inhibited with a drug treatment</description>
     </item>
     
     <item>
       <title>Beggars at a banquet: stop only thinking about significance and start thinking about measurement accuracy with topconfects</title>
-      <link>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/paul-harrison/</link>
+      <link>/informal-bioinformatics-seminars/posts/paul-harrison/</link>
       <pubDate>Wed, 14 Aug 2019 20:40:31 +1100</pubDate>
       
-      <guid>https://monashbioinformaticsplatform.github.io/informal-bioinformatics-seminars/posts/paul-harrison/</guid>
+      <guid>/informal-bioinformatics-seminars/posts/paul-harrison/</guid>
       <description>Paul Harrison
 Monash Bioinformatics Platform
 RNA System laboratory

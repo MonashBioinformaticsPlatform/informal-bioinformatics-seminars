@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThisIsBioinformatics on Monash Bioinformatics Platform</title>
+    <link>/tags/thisisbioinformatics/</link>
+    <description>Recent content in ThisIsBioinformatics on Monash Bioinformatics Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2020 10:31:54 +1100</lastBuildDate>
+    
+	<atom:link href="/tags/thisisbioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bioinformatics collaborations: the Dos and Don&#39;ts</title>
+      <link>/posts/miranaramialison/</link>
+      <pubDate>Wed, 19 Feb 2020 10:31:54 +1100</pubDate>
+      
+      <guid>/posts/miranaramialison/</guid>
+      <description>Dr. Mirana Ramialison
+Group Leader of the Systems Developmental Biology laboratory at the Australian Regenerative Medicine Institute</description>
+    </item>
+    
+  </channel>
+</rss>
